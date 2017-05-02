@@ -30,4 +30,4 @@ while True:
     print(res[0])
     number = res[0]
 
-# At last, we'll get "peak.html" :)
+# At last, when nothing = 66831, we get "peak.html" :)
