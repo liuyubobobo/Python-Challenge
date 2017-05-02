@@ -16,4 +16,4 @@ Then, I use this simple translation rule upon the the url word - 'map', and get 
 
 **Code Word for Next Challenge**: ocr
 
-**Official solution**: [level 1](http://wiki.pythonchallenge.com/index.php?title=Level1:Main_Page)
+**Official solution**: [level 1](http://www.pythonchallenge.com/pcc/def/ocr.html)

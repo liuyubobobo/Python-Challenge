@@ -14,4 +14,4 @@ When I replace "equality" to "linkedlist", the page tell us "linkedlist.php". So
 
 **Code Word for Next Challenge**: linkedlist
 
-**Official solution**: [level 3](http://wiki.pythonchallenge.com/index.php?title=Level3:Main_Page)
+**Official solution**: [level 3](http://www.pythonchallenge.com/pcc/def/linkedlist.php)

@@ -10,8 +10,8 @@ In [solution 1](https://github.com/liuyubobobo/Python-Challenge/blob/master/leve
 
 In [solution 2](https://github.com/liuyubobobo/Python-Challenge/blob/master/level-02/02_2.py), I just easily kept all characters and throw other meaningless sign characters away. Then, I can get the key word: equality:)
 
-In [solution 3](), I used regular expression to find the keyword. I used two way to do that. For one way, I replace every non-alphabeta characters into empty and the remain characters formed the keyword; For another way, I find all alphabeta characters in the message and joined them together to get the keyword.
+In [solution 3](https://github.com/liuyubobobo/Python-Challenge/blob/master/level-02/02_3.py), I used regular expression to find the keyword. I used two way to do that. For one way, I replace every non-alphabeta characters into empty and the remain characters formed the keyword; For another way, I find all alphabeta characters in the message and joined them together to get the keyword.
 
 **Code Word for Next Challenge**: equality
 
-**Official solution**: [level 2](http://wiki.pythonchallenge.com/index.php?title=Level2:Main_Page)
+**Official solution**: [level 2](http://www.pythonchallenge.com/pcc/def/equality.html)
